@@ -1,0 +1,20 @@
+﻿Build started 2014.12.19 14:54:02.
+     1>Project "C:\Users\Vermil'\Documents\Univeras\C++\KURSINIS\kursinis\kursinis\kursinis.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\kursinis.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\kursinis.unsuccessfulbuild".
+         Touching "Debug\kursinis.lastbuildstate".
+     1>Done Building Project "C:\Users\Vermil'\Documents\Univeras\C++\KURSINIS\kursinis\kursinis\kursinis.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.47
